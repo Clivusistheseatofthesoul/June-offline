@@ -1,0 +1,4 @@
+---
+Aliases: Thromboangiitis obliterans
+---
+

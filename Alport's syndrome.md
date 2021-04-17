@@ -1,0 +1,2 @@
+Autoimmune disease with autosomall recessive inheritance pattern 
+- typically presents as a child with [[Nephritic syndrome]] or Isolated microscopic haematuria, with [[High frequency sensorineural deafness]]

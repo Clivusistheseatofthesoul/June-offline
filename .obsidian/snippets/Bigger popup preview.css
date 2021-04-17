@@ -1,0 +1,8 @@
+
+/*============bigger link popup preview  ================*/
+.popover.hover-popover {
+    transform: scale(0.6); /* makes the content smaller */
+    max-height: 900px;    /* was 300 */
+    min-height: 300px;
+    width: 700px;     /* was 400 */
+}

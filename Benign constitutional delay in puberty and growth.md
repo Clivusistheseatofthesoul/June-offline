@@ -1,0 +1,1 @@
+Common in athletic or body weight dysmorphia adolescents with very little body fat E.g Ballerinas, dx of anorexia nervosa or bulimia, just being really skinny. 

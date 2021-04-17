@@ -1,0 +1,1 @@
+# Uncontrolled severe thyrotoxicosis caused by an acute stressor precipitating existing hyperthyroidism 

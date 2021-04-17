@@ -1,0 +1,12 @@
+.theme-dark .graph-view.color-fill-unresolved {
+color: #fdf0c4;
+Opacity:1;
+}
+
+.graph-view.color-fill {
+color: #f7a992;
+}
+
+.graph-view.color-line {
+color: #82a0c2;
+}

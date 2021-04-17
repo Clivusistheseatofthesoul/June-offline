@@ -1,0 +1,1 @@
+Caused by infection of [[Epstien-Barr virus]]

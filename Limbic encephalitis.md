@@ -1,0 +1,13 @@
+# Diffuse inflammation of the CNS medial temporal lobe parenchyma due to some inflammatory process 
+- DDx:
+	- Infectious
+		- Herpes simplex virus-1 ([[HSV-1]]) -> causing [[Herpes simplex encephalitis|HSVE]]
+	- Autoimmune
+		- Primary autoimmune limbic encephalitis -> [[Anti-NMDA encephalitis]], [[Anti-LGI1 encephalitis]]
+		- Paraneoplastic syndrome -> depends on antibody ([[Small cell carcinoma of the lung]], breast, gonadal, uterus most common)
+		- Neuro-[[Behcet's]] disease
+		- [[Neurosarcoidosis]]
+		- [[CLIPPERS]]
+		- [[Primary CNS vasculitis]]
+		- [[Bickerstaff's encephalitis]]
+		- [[Hashimoto's encephalopathy]]

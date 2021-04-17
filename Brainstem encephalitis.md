@@ -1,0 +1,14 @@
+# Diffuse inflammation of the CNS brainstem parenchyma due to some inflammatory process 
+- DDx:
+	- Infectious
+		- [[Listeria]] -> often causes [[Rhombencephalitis]]
+		- [[Aspergillis]] -> when causing CNS infection is called [[CNS aspergillosis]]
+	- Autoimmune
+		- Demyelinating disease -> [[MOGAD]]
+		- Paraneoplastic syndrome
+		- Neuro-[[Behcet's]] disease
+		- [[Neurosarcoidosis]]
+		- [[CLIPPERS]]
+		- [[Primary CNS vasculitis]]
+		- [[Bickerstaff's encephalitis]]
+		- [[Hashimoto's encephalopathy]]

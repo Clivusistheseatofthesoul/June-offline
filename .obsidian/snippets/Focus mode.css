@@ -1,0 +1,50 @@
+/* --------------- */
+/* Focus mode */
+/* When the left sidebar is collapsed */
+
+.workspace-ribbon.mod-left {
+  transition: border-color 0s ease-in-out 0s, background-color 0s ease-in-out 0s;
+}
+.workspace-ribbon.mod-left.is-collapsed {
+  border-color: transparent;
+  background-color: transparent;
+  transition: border-color 0s ease-in-out 0.1s,
+    background-color 0s ease-in-out 0.2s;
+
+}
+.view-actions {
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+}
+.view-actions .view-action {
+  align-items: center;
+  border-radius: var(--radius-s);
+  color: var(--shade-40);
+  cursor: var(--cursor);
+  display: flex;
+  justify-content: center;
+  line-height: 1;
+  margin: 0 0 0 5px;
+  opacity: 1;
+  padding: 4px 6px;
+  position: static;
+}
+.view-action.is-active {
+  color: var(--text-faint);
+  opacity: 1;
+}
+.view-actions .view-action:last-child {
+  margin-left: 5px;
+}
+.view-action:hover {
+  color: var(--text-muted);
+  background-color: var(--shade-plus-darker);
+}
+.workspace-ribbon:not(.is-collapsed) ~ .mod-root .view-actions,
+.mod-right.is-collapsed ~ .mod-root .view-header:hover .view-actions {
+  opacity: 1;
+  transition: opacity 0.25s ease-in-out;
+}

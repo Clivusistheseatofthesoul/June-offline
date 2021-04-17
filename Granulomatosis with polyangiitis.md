@@ -1,0 +1,3 @@
+---
+Aliases: Wegner's granulomatosis
+---

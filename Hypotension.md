@@ -1,0 +1,6 @@
+# Hypotension
+
+DDx: ../../Pathophysiology%20index%20ece86e8b0c044eada17e958a6ec5984e/Pathophysiology%20index%20by%20type%20ad8b6274d9c54c9a90bf17eb311f049f/Addison's%20disease%20acd88158a8b9456c81babb4084cbb631.md, ../../Pathophysiology%20index%20ece86e8b0c044eada17e958a6ec5984e/Pathophysiology%20index%20by%20type%20ad8b6274d9c54c9a90bf17eb311f049f/Congenital%20adrenal%20hyperplasia%20a5c571186a9843f395132b0164a97d6e.md, ../../Pathophysiology%20index%20ece86e8b0c044eada17e958a6ec5984e/Pathophysiology%20index%20by%20type%20ad8b6274d9c54c9a90bf17eb311f049f/bleeding%2055c047f8955745fe84a15da040b091d8.md, ../../Pathophysiology%20index%20ece86e8b0c044eada17e958a6ec5984e/Pathophysiology%20index%20by%20type%20ad8b6274d9c54c9a90bf17eb311f049f/Myxoedema%20coma%2029daf246a2534e3e9818fec0471740e9.md, ../../Pathophysiology%20index%20ece86e8b0c044eada17e958a6ec5984e/Pathophysiology%20index%20by%20type%20ad8b6274d9c54c9a90bf17eb311f049f/Hyperosmolar%20hyperglycaemic%20state%20ef126451b4e4410092098c626f6f5155.md
+Part of: Adrenal%20crisis%20addisonian%20crisis%208ee7cc36362d464daa5be5066c668a6e.md, hypovolaemic%20shock%206b712ace69af4d9f843e0840af926e78.md
+Seen in: CNS, Cardiology, PNS, Vascular, haemorrhage
+Sign: Systolic or diastolic < 90/60
